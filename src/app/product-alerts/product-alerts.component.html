@@ -8,5 +8,5 @@ can be found in the LICENSE file at http://angular.io/license
 -->
 
 <p *ngIf="product.price > 700">
-    <button>Notify Me</button>
-</p>
+    <button (click)="notify.emit()">Notify Me</button>
+  </p>

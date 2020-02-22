@@ -21,6 +21,12 @@ References
 
 
 
+Steps
+------
+1. Configure local machine environment (see guides below).
+2. Download code and follow guide on [Angular Tutorial](https://angular.io/start).
+
+
 
 Angular Installation
 ----------------------------------------

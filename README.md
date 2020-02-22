@@ -42,18 +42,26 @@ Angular Installation
    https://www.webucator.com/how-to/how-install-nodejs-on-mac.cfm
 
 2.1 Open the Terminal.
+
 2.2 Enter node - v in the Terminal and press Enter.
   ```
       Nats-MacBook-Pro:Webucator natdunn$ node -v
   ```
 2.3  If you do have Node.js installed, it will output the version.
+
 2.3.1 Update to the latest version using npm i -g npm. If you get a bunch of checkPermissions warnings, you should run the command as the superuser like this: sudo npm i -g npm
+
 2.3.2  You now have the latest version installed. You do not need to continue with these instructions.
+
 2.4 If you do not have Node.js installed, it will output something like -bash: node: command not found. Continue with these instructions to install it.
+
 2.5 Go to nodejs.org. You'll see download links for MacOS.
     Install the LTS (Long Term Support) version. The Current version has the latest features, but may be more prone to changes and bugs than the LTS (Long Term Support) version.
+
 2.6 When the file finishes downloading, locate it in Finder and double-click on it.
+
 2.6.1  If there is a permission error: Open System Preferences -> Security and Privacy -> General tab -> Allow package Open Anyway.
+
 2.7 Go through the entire installation process.
     Leave the Installation as default
   ```

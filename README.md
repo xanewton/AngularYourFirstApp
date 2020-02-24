@@ -147,7 +147,10 @@ See guide at https://code.visualstudio.com/docs/nodejs/angular-tutorial
 
 2. Run the application
    Go to the workspace folder (my-app).
-   Launch the server by using the CLI command:  ng serve --open
+   Launch the server by using the CLI command:
+  ```
+     ng serve --open
+  ```
    You should see "Welcome to app!!" on http://localhost:4200 in your browser. We'll leave the web server running while we look at the application with VS Code.
  Ctrl + c <- to Stop properly and release resources
 
